@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_Nextpay_title</key>
+      <value><![CDATA[پرداخت از طریق درگاه پرداخت نکست پی]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_Nextpay_description</key>
+      <value><![CDATA[<div style="font-size:11px; color:#cc0000; width:500; border:1px solid #cc0000; padding:5px; background:#ffffcc;"><b>توجه: </b>وقتي شما دکمه <b>"تاييد سفارش"</b> را کليک کنيد, به صفحه پرداخت ارجاء داده مي شويد و پس از پرداخت مبلغ سفارش مجددا به اين سايت باز گردانده مي شويد.</div>]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_Nextpay_method_title</key>
+      <value><![CDATA[پرداخت از طریق درگاه پرداخت نکست پی]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_Nextpay_method_trans_id</key>
+      <value><![CDATA[شماره رسید پرداخت درگاه نکست پی : ]]></value>
+      <group>modules-payment</group>
+    </definition>		
+  </definitions>
+</language>
